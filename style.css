@@ -13,8 +13,10 @@
   min-height: 100vh;
 }
 img {
-  width: 50%;
-  padding-bottom: 10%;
+  position: absolute;
+  top: 10%;
+  object-fit: cover;
+  width: 200px;
 }
 section {
   position: relative;
